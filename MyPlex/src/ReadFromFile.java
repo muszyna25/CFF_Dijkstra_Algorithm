@@ -22,10 +22,6 @@ public class ReadFromFile {
 		return array;
 	}
 
-	public static void setArray(ArrayList<Double> array) {
-		//ProcessingData.array = array;
-	}
-
 	public int getSizeOfMparameter() {
 		return sizeOfMparameter;
 	}
